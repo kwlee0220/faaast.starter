@@ -6,7 +6,7 @@ plugins {
 }
 
 group = 'de.fraunhofer.iosb.ilt.faaast'
-version = '0.9.0'
+version = '0.9.1'
 mainClassName = 'de.fraunhofer.iosb.ilt.faaast.service.starter.App'
 
 java {
